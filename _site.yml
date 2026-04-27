@@ -1,7 +1,7 @@
-name: "Estefania Torrejon"                                # CHANGE HERE 
+name: "Estefania Torrejón"                                # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "Estefania Torrejon"                             # CHANGE HERE 
+  title: "Estefania Torrejón"                             # CHANGE HERE 
   type: inverse
   left:
     - text: "Home"
@@ -13,6 +13,8 @@ navbar:
     - text: "Research and Work Experience"
       icon: fa-file-pdf-o
       href: cv.html
+    - text: "Publications"
+      href: Publications.html
   right:
     - text: "Contact me"
       icon: fa-envelope-o

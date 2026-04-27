@@ -1,0 +1,44 @@
+---
+title: "Publications"
+---
+
+## Publications
+
+[Molecular survey of Bartonella species in stray cats and dogs, humans, and questing ticks from Portugal](https://www.mdpi.com/2076-0817/11/7/749). Torrejón, E., […], Domingos, A., & Antunes, S. Pathogens, 2022. IP IF2022 3.4 
+
+This article presents the findings of my master's thesis, where I used qPCR to identify Bartonella DNA in 20% of stray cats in the Lisbon area. This research highlighted the emergence of Bartonella henselae in cat reservoirs, drawing attention to the rise of this pathogen in Europe. 
+<br>
+ 
+[Proteomic Profiling of Plasma and Gut-Derived Extracellular Vesicles in Obesity](https://www.mdpi.com/2072-6643/16/5/736). Pereira, P. B., Torrejón, E., […], Macedo M. P. & Machado de Oliveira, R. Nutrients, 2024. IP IF2023 4.8 
+
+For this article, I contributed to the development and implementation of a proteomics analysis pipeline that highlights changes in post-translational modifications. This pipeline was used to compare plasma and gut-derived EV proteins across control and prediabetic conditions. Additionally, I mentored a master's student throughout the final stages of the project and played a key role in preparing the manuscript. This work was completed during my first year of PhD at NOVA Medical School. 
+
+<br>
+
+[Aldehyde Dehydrogenase 2 (ALDH2): a novel sorafenib target in hepatocellular carcinoma unraveled by the proteome-wide cellular thermal shift assay](https://www.sciencedirect.com/science/article/pii/S2472555224000169). Ferreira, I. C. + , Torrejón, E.+, […], Bortoluzzi, A. & Rebelo, S. P. SLAS Discovery, 2024. IP IF2023 3.3 
+
++ These authors contributed equally. 
+
+The discovery of ALDH2 as a new target for Sorafenib (a drug to treat liver cancer) resulted from two years of research, during which we established a CETSA-MS technology platform at iBET. I was responsible for both wet and dry lab tasks, ranging from the preparation and optimization of CETSA and CETSA-MS protocols for data acquisition to implementing a tailored bioinformatics workflow for thermal proteome profiling. Additionally, I contributed to the target engagement validation assays and manuscript preparation. 
+
+<br>
+
+[Adapting beyond borders: insights from the 19th student council symposium (SCS2023), the first hybrid ISCB student council global event.](https://academic.oup.com/bioinformaticsadvances/article/4/1/vbae028/7639973) Al Sium, S. M., Torrejón, […] & Olguín-Orellana, G. J. Bioinformatics Advances, 2024. IP IF20243 2.84 
+
+This article showcases the achievements of the 19th ISCB Student Council Symposium. As part of the organizing team, I led the Website Committee and coordinated a roundtable discussion on the impact of AI in bioinformatics. Additionally, I co-led the manuscript preparation alongside Al Sium. 
+
+<br>
+
+[Molecular Survey of Anaplasmataceae Agents, Rickettsia spp., Bartonella spp., and Piroplasmids in Ectoparasites from Cave-Dwelling Bats in Mainland Portugal.](https://www.mdpi.com/2076-0817/14/3/273) Sanches, G. S., Rodrigues, L., Torrejón, E., […] & André, M. R. Pathogens, 2025. IP IF2023 3.4 
+
+[Molecular and phylogenetic insights into Polychromophilus diversity in bat flies (Diptera: Nycteribiidae) from Portugal.](https://www.sciencedirect.com/science/article/abs/pii/S1383576926000528) André, M. R., de Mello, V. V. C., Barbier, E., Mariano, L. C., Rodrigues, L., Torrejón, E., [...] & Sanches, G. S. Parasitology International, 2026. IF2024 1.9 
+
+I contributed to these work during my master's years by participating in field trips to collect ectoparasites and identify bat hosts. I was also involved in the subsequent ectoparasites species identification in the lab. 
+
+<br>
+
+[EV-Net: A computational framework to model extracellular vesicles-mediated communication.](https://www.biorxiv.org/content/10.64898/2026.04.02.716053v1.abstract) Torrejon, E., […] & Machado de Oliveira, R. bioRxiv, 2026. (pre-print) 
+
+During my second PhD year, I was awarded an EMBO short scientific exchange grant to develop EV-Net, an R package built during a research stay at the MMG Systems Biomedicine Lab (led by A. Baudot). EV-Net enables exploration of the effects of extracellular vesicles on tissues of interest by ranking vesicle proteomic content using a weighted network derived from protein-protein interaction and regulatory databases. For more information, visit EV-Net’s website: https://torrejonia.github.io/EV-Net/ 
+
+<br>

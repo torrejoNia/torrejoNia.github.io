@@ -1,5 +1,5 @@
 ---
-title: "Estefania Torrejon"
+title: "Estefania Torrejón"
 output:
   html_document:
     includes:
@@ -28,6 +28,10 @@ Beyond my scientific endeavours, I am a key contributor of the International Soc
 
 <div style="flex: 0 0 auto; margin-left: 20px;">
 <img src="images/linkedin_avatar.png" width="200">
+</div>
+
+<div style="text-align: center; margin-top: 50px;">
+  <img src="images/Logotipo_NMS.png" width="120">
 </div>
 
 ****
