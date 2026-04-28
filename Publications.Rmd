@@ -17,7 +17,7 @@ For this article, I contributed to the development and implementation of a prote
 
 [Aldehyde Dehydrogenase 2 (ALDH2): a novel sorafenib target in hepatocellular carcinoma unraveled by the proteome-wide cellular thermal shift assay](https://www.sciencedirect.com/science/article/pii/S2472555224000169). Ferreira, I. C. + , Torrejón, E.+, […], Bortoluzzi, A. & Rebelo, S. P. SLAS Discovery, 2024. IP IF2023 3.3 
 
-+ These authors contributed equally. 
++These authors contributed equally. 
 
 The discovery of ALDH2 as a new target for Sorafenib (a drug to treat liver cancer) resulted from two years of research, during which we established a CETSA-MS technology platform at iBET. I was responsible for both wet and dry lab tasks, ranging from the preparation and optimization of CETSA and CETSA-MS protocols for data acquisition to implementing a tailored bioinformatics workflow for thermal proteome profiling. Additionally, I contributed to the target engagement validation assays and manuscript preparation. 
 
