@@ -21,7 +21,7 @@ Currently, I lead a team of six people, driving initiatives such as the 1st Cycl
 I joined the ISCB Student Council in 2023, volunteering at both the Student Council Symposium (SCS2023) and the main ISCB conference. During the SCS2023, I moderated the Roundtable: "Exploring the Potential of AI in Revolutionizing Bioinformatics Research: Opportunities and Challenges". In preparation for this session, I developed the discussion questions and coordinated logistics with the panelists. The achievements of that symposium are detailed in one of my publications. 
 
 <div style="text-align: center; margin-top: 50px;">
-  <img src="images/roundtable.png" width="600">
+  <img src="images/roundtable.png" style="width: 100%; max-width: 900px;">
 </div>
 
 In 2024, I was invited to serve as Chair of the Latin American Student Council Symposium (LA-SCS 2024). In this role, I led a team of over 20 volunteers in organizing the event, overseeing tasks such as abstract reviewing and social media outreach. During this event, I was also invited to give a talk at the CABANAnet annual meeting, where I shared my experience as Chair of LA-SCS 2024. 
