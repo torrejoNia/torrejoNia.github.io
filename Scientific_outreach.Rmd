@@ -26,9 +26,11 @@ I joined the ISCB Student Council in 2023, volunteering at both the Student Coun
 
 In 2024, I was invited to serve as Chair of the Latin American Student Council Symposium (LA-SCS 2024). In this role, I led a team of over 20 volunteers in organizing the event, overseeing tasks such as abstract reviewing and social media outreach. During this event, I was also invited to give a talk at the CABANAnet annual meeting, where I shared my experience as Chair of LA-SCS 2024. 
 
-I was also part of the organizing committee of the International Society for Computational Biology Student Council Symposium 2025, held in Liverpool, where I served as Head of the Finance and Fellowship Committee, leading a team of four members. Currently, I am volunteering as Head of Marketing for the ISCB-LATAM 2026 conference, to be held in Lima, where I lead a team of five members. 
+<div style="text-align: center; margin-top: 50px;">
+  <img src="images/scs2024.jpg" width="600">
+</div>
 
- 
+I was also part of the organizing committee of the International Society for Computational Biology Student Council Symposium 2025, held in Liverpool, where I served as Head of the Finance and Fellowship Committee, leading a team of four members. Currently, I am volunteering as Head of Marketing for the ISCB-LATAM 2026 conference, to be held in Lima, where I lead a team of five members. 
 
 #### Participation in mentorship programs, both as a mentee and as a mentor 
 
@@ -36,14 +38,20 @@ I was selected as a Mentee for the 2024 edition of the REBECA (Researchers Beyon
 
 Sharing a photo I took with my ISEV mentor 2025, Roos Vandenbroucke, when we finally got to meet in person at ISEV 2025 in Vienna!
 
-
+<div style="text-align: center; margin-top: 50px;">
+  <img src="images/roos.jpg" width="600">
+</div>
 
 In 2024, I took on a Mentor role in the SISAY mentorship program, a Peruvian initiative that connects Peruvian scientists with undergraduate students. I mentored a bachelor’s student from my alma mater, guiding him through the process of preparing an application for an international internship. 
 
 In 2026, I am supervising two Master’s students in my lab. Both are working with our bariatric surgery cohort clinical database.
 
-Additional outreach initiatives 
+#### Additional outreach initiatives 
 
-To date, I have delivered 20 poster and 13 oral presentations at national and international scientific conferences. 
+To date, I have delivered 23 poster and 15 oral presentations at national and international scientific conferences. 
 
 Beyond academic conferences, I have actively participated in multiple editions of the European Researcher’s Night in Lisbon, representing my research groups at iBET, INIAV, and the Twinning Project Extracellular Vesicles in Clinical Applications (EVCA). Through these initiatives, I have contributed to making science more accessible to the general public. 
+
+<div style="text-align: center; margin-top: 50px;">
+  <img src="images/fotogrupo.jpg" width="600">
+</div>

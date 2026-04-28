@@ -18,7 +18,7 @@ Beyond my primary research, I have been actively engaged in international collab
 Currently, I am also supervising two master students.
 
 <div style="text-align: center; margin-top: 50px;">
-  <img src="images/grupo1.jpg" width="120">
+  <img src="images/grupo1.jpg" width="600">
 </div>
 <br>
 
@@ -39,7 +39,7 @@ I was hired to develop the project “TARGETInProteome: Establishing CETSA-MS Te
 My role involved optimizing CETSA and CETSA-MS protocols, developing an MS acquisition method for CETSA samples, and curating a bioinformatics workflow for thermal proteome profiling using iTRAQ labeling. Additionally, I was responsible for cell culture seeding and maintenance, as well as sample preparation for mass spectrometry analysis. 
 The findings from this project are detailed in Ferreira & Torrejón et al., 2024, listed in the Publications section. 
 <div style="text-align: center; margin-top: 50px;">
-  <img src="images/ibet.jpg" width="120">
+  <img src="images/ibet.jpg" width="600">
 </div>
 <br>
 
