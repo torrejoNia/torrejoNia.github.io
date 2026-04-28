@@ -30,8 +30,5 @@ Beyond my scientific endeavours, I am a key contributor of the International Soc
 <img src="images/linkedin_avatar.png" width="200">
 </div>
 
-<div style="text-align: center; margin-top: 50px;">
-  <img src="images/Logotipo_NMS.png" width="120">
-</div>
 
 ****

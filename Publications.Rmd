@@ -2,11 +2,11 @@
 title: "Publications"
 ---
 
-## Publications
 
 [Molecular survey of Bartonella species in stray cats and dogs, humans, and questing ticks from Portugal](https://www.mdpi.com/2076-0817/11/7/749). Torrejón, E., […], Domingos, A., & Antunes, S. Pathogens, 2022. IP IF2022 3.4 
 
 This article presents the findings of my master's thesis, where I used qPCR to identify Bartonella DNA in 20% of stray cats in the Lisbon area. This research highlighted the emergence of Bartonella henselae in cat reservoirs, drawing attention to the rise of this pathogen in Europe. 
+
 <br>
  
 [Proteomic Profiling of Plasma and Gut-Derived Extracellular Vesicles in Obesity](https://www.mdpi.com/2072-6643/16/5/736). Pereira, P. B., Torrejón, E., […], Macedo M. P. & Machado de Oliveira, R. Nutrients, 2024. IP IF2023 4.8 

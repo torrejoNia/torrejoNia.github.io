@@ -18,7 +18,7 @@ Beyond my primary research, I have been actively engaged in international collab
 Currently, I am also supervising two master students.
 
 <div style="text-align: center; margin-top: 50px;">
-  <img src="images/grupo1.png" width="120">
+  <img src="images/grupo1.jpg" width="120">
 </div>
 <br>
 
@@ -28,6 +28,7 @@ Currently, I am also supervising two master students.
 I was responsible for monitoring Vespa velutina (Asian wasp) as an invasive species. This included maintaining and updating the monitoring network and tracking collaborator reports using ArcGIS. 
 
 My role also involved developing Python scripts to automate email notifications and managing data and queries using SQL. Additionally, I contributed to public outreach efforts, providing information on beekeeping and how to identify Vespa velutina to the general public. 
+
 <br>
 
 #### Research fellow at the Structural Biology of Drug Discovery Unit and Merck satellite lab. iBET. Lisbon, Portugal. 
@@ -38,7 +39,7 @@ I was hired to develop the project “TARGETInProteome: Establishing CETSA-MS Te
 My role involved optimizing CETSA and CETSA-MS protocols, developing an MS acquisition method for CETSA samples, and curating a bioinformatics workflow for thermal proteome profiling using iTRAQ labeling. Additionally, I was responsible for cell culture seeding and maintenance, as well as sample preparation for mass spectrometry analysis. 
 The findings from this project are detailed in Ferreira & Torrejón et al., 2024, listed in the Publications section. 
 <div style="text-align: center; margin-top: 50px;">
-  <img src="images/ibet.png" width="120">
+  <img src="images/ibet.jpg" width="120">
 </div>
 <br>
 
@@ -48,6 +49,7 @@ The findings from this project are detailed in Ferreira & Torrejón et al., 2024
 During my master's, I conducted the molecular identification of Bartonella DNA, an emerging bacterial pathogen in Europe, using qPCR on samples from ticks, domestic animals, and humans. Additionally, I maintained bacterial blood cultures from dog and cat hosts to isolate Bartonella spp. 
 
 The findings from this project are published in Torrejón et al., 2022, listed in the Publications section. 
+
 <br>
 
 #### Researcher at the National Reference Laboratory of Bacterial Vector-borne Diseases. National Center of Public Health. Instituto Nacional de Salud. Lima, Peru

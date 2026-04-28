@@ -10,11 +10,15 @@ navbar:
     - text: "About"
       icon: fa-user 
       href: about.html
-    - text: "Research and Work Experience"
+    - text: "Research/Work Experience"
       icon: fa-file-pdf-o
       href: cv.html
     - text: "Publications"
       href: Publications.html
+    - text: "Awards"
+      href: Awards.html
+    - text: "Scientific Outreach"
+      href: Scientific_outreach.html
   right:
     - text: "Contact me"
       icon: fa-envelope-o
